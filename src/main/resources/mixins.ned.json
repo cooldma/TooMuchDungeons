@@ -1,0 +1,9 @@
+{
+  "package": "com.cooldma.tmd.mixins",
+  "refmap": "mixins.tmd.refmap.json",
+  "compatibilityLevel": "JAVA_8",
+  "verbose": true,
+  "mixins": [
+    "MixinRenderer"
+  ]
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "modid": "tmd",
+    "name": "Too Much Dungeons",
+    "description": "Use the mod with: /tmdhelp",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://discord.gg/vueabhnt5N",
+    "authorList": [
+      "cooldma"
+    ],
+    "credits": "Hypixel for Skyblock."
+  }
+]
